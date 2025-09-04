@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **flight-booking-web-app**
 
-- 🌱 I’m currently learning **ReactJS,NextJS and WEB3 Development**
+- 🌱 I’m currently learning **ReactJS,NextJS,WEB3 & Blockchain Development**
 
 - 🤝 I’m looking for help with **fullstack**
 
